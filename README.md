@@ -3,7 +3,6 @@
 [Try it out](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/python)
 
 
-Open the terminal and run:
 ```sh
 cd test-project
 python -u hello.py
