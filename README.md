@@ -1,8 +1,6 @@
 
 
 
-
-
 [Try it out](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/python)
 
 
